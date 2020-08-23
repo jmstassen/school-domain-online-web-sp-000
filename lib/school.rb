@@ -3,6 +3,8 @@ class School
     @name = name
   end
 
+  def roster
   ROSTER = []
+  end
 
 end
