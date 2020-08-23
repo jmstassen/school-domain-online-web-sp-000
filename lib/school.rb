@@ -6,4 +6,5 @@ class School
 
   def roster
     puts roster
+  end
 end
