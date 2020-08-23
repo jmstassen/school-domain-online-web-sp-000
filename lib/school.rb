@@ -3,4 +3,7 @@ class School
   def initialize(school)
     @school = school
   end
+
+  def roster
+    puts roster
 end
